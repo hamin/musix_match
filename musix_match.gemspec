@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/hash_symbolize_keys.rb",
     "lib/musix_match.rb",
+    "musix_match.gemspec",
     "test/helper.rb",
     "test/test_musix_match.rb"
   ]
