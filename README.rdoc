@@ -1,6 +1,6 @@
 = musix_match
 
-Description goes here.
+A Ruby wrapper around the MusiX Match API http://developer.musixmatch.com/
 
 == Contributing to musix_match
  

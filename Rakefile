@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "musix_match"
   gem.homepage = "http://github.com/hamin/musix_match"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A Ruby wrapper around the MusiX Match API http://developer.musixmatch.com/}
+  gem.description = %Q{A simple and elegant wrapper around MusiX Match API. It matches the api calls and parameters as described in their XML API documentation}
   gem.email = "aminharis7@gmail.com"
   gem.authors = ["Haris Amin"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
